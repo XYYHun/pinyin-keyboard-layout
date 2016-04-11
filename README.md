@@ -8,9 +8,9 @@
 
 ## EXAMPLE
 
-RIGHT Alt(or CTRL+Alt) + 1 >> i = ī
-RIGHT Alt(or CTRL+Alt) + 2 >> v = ǘ
-RIGHT Alt(or CTRL+Alt) + v = ü
+RIGHT Alt(or CTRL+Alt) + 1 >> i = ī .
+RIGHT Alt(or CTRL+Alt) + 2 >> v = ǘ .
+RIGHT Alt(or CTRL+Alt) + v = ü .
 
 ## Remove
 
