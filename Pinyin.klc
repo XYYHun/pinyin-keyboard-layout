@@ -208,9 +208,11 @@ KEYNAME_DEAD
 DESCRIPTIONS
 
 0409	Pinyin Keyboard Layout
+0804	拼音键盘
 
 LANGUAGENAMES
 
 0409	Chinese (People's Republic of China)
+0804	中文 (中华人民共和国)
 
 ENDKBD
